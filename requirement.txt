@@ -1,0 +1,4 @@
+flask
+pysqlite3 
+requests
+firebase_admin
